@@ -1,0 +1,15 @@
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\bin\Debug\net8.0-windows\TextAdventureGame.exe
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\bin\Debug\net8.0-windows\TextAdventureGame.deps.json
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\bin\Debug\net8.0-windows\TextAdventureGame.runtimeconfig.json
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\bin\Debug\net8.0-windows\TextAdventureGame.dll
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\bin\Debug\net8.0-windows\TextAdventureGame.pdb
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\TextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\TextAdventureGame.AssemblyInfoInputs.cache
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\TextAdventureGame.AssemblyInfo.cs
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\TextAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\TextAdventureGame.sourcelink.json
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\TextAdventureGame.dll
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\refint\TextAdventureGame.dll
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\TextAdventureGame.pdb
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\TextAdventureGame.genruntimeconfig.cache
+C:\Users\legen\OneDrive\Desktop\Module 2\TextAdventureGame\obj\Debug\net8.0-windows\ref\TextAdventureGame.dll
